@@ -1,0 +1,15 @@
+{
+  "name": "banno",
+  "version": "1.0.0",
+  "description": "Twitter Firehose Banno Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Carlile",
+  "license": "BSD",
+  "dependencies": {
+    "express": "^4.13.4",
+    "twitter": "^1.2.5"
+  }
+}
